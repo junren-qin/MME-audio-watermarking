@@ -5,8 +5,8 @@ cover=load("cover_data.mat");
 color={[37 151 213]/255,[4 149 174]/255,[3 107 168]/255,[22 60 126]/255,[0 191 255]/255};
 
 name=cover.name;
-cname=1:6;
-tlen=1:6;
+cname=1:75;
+tlen=1:75;
 method=[1:3,6,7];
 B_name="Z";
 S=300;

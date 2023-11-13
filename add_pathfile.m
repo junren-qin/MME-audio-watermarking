@@ -34,3 +34,5 @@ for i=1:k2
     eval(sname+"=sdata;");
     save("cover_data.mat",sname,"-append");
 end
+
+system("mkdir audio_mp3")
